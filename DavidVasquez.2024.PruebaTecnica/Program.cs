@@ -14,6 +14,9 @@ builder.Services.AddDbContext<dbContext>(options =>
 
 builder.Services.AddScoped<CategoriaBL>();
 builder.Services.AddScoped<CategoriaDAL>();
+builder.Services.AddScoped<ProductoBL>();
+builder.Services.AddScoped<ProductoDAL>();
+
 
 // Agregar servicios para controladores y vistas
 builder.Services.AddControllersWithViews();
