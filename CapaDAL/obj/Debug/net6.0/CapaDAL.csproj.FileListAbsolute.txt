@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\bin\Debug\net6.0\CapaDAL.deps.json
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\bin\Debug\net6.0\CapaDAL.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\bin\Debug\net6.0\CapaDAL.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\bin\Debug\net6.0\CapaEN.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\bin\Debug\net6.0\CapaEN.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.csproj.Up2Date
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\refint\CapaDAL.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\CapaDAL.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaDAL\obj\Debug\net6.0\ref\CapaDAL.dll

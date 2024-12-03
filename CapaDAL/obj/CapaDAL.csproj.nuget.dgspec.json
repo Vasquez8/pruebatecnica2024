@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaDAL\\CapaDAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaDAL\\CapaDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaDAL\\CapaDAL.csproj",
+        "projectName": "CapaDAL",
+        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaDAL\\CapaDAL.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\CapaEN.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\CapaEN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\CapaEN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\CapaEN.csproj",
+        "projectName": "CapaEN",
+        "projectPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\CapaEN.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\OneDrive\\Escritorio\\DavidVsquez.2024.PruebaTecnica\\CapaEN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\bin\Debug\net6.0\CapaEN.deps.json
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\bin\Debug\net6.0\CapaEN.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\bin\Debug\net6.0\CapaEN.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\refint\CapaEN.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\CapaEN.pdb
+C:\Users\MINEDUCYT\OneDrive\Escritorio\DavidVsquez.2024.PruebaTecnica\CapaEN\obj\Debug\net6.0\ref\CapaEN.dll
